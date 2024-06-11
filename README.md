@@ -9,8 +9,7 @@ Questions:
 Define Software Engineering:Software engineering is the systematic application of engineering principles and techniques to the development, maintenance, and testing of software.
 
 What is software engineering, and how does it differ from traditional programming?
-Traditional Programming: Focuses primarily on writing code to solve specific problems or tasks. It often involves creating small-scale programs or scripts.
-Software Engineering: Encompasses the entire software development lifecycle, from initial concept and requirements gathering to deployment and maintenance, often for large-scale and complex systems.
+Traditional Programming Focuses primarily on writing code to solve specific problems or tasks. It often involves creating small-scale programs or scripts while Software Engineering Encompasses the entire software development lifecycle, from initial concept and requirements gathering to deployment and maintenance, often for large-scale and complex systems.
 
 Software Development Life Cycle (SDLC):
 The Software Development Life Cycle (SDLC) is a systematic process used by software engineers to design, develop, and test high-quality software.
