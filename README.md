@@ -6,18 +6,36 @@ Instructions:
 Answer the following questions based on your understanding of software engineering concepts. Provide detailed explanations and examples where appropriate.
 
 Questions:
-Define Software Engineering:
+Define Software Engineering:Software engineering is the systematic application of engineering principles and techniques to the development, maintenance, and testing of software.
 
 What is software engineering, and how does it differ from traditional programming?
-Software Development Life Cycle (SDLC):
+Traditional Programming: Focuses primarily on writing code to solve specific problems or tasks. It often involves creating small-scale programs or scripts.
+Software Engineering: Encompasses the entire software development lifecycle, from initial concept and requirements gathering to deployment and maintenance, often for large-scale and complex systems.
 
+Software Development Life Cycle (SDLC):
+The Software Development Life Cycle (SDLC) is a systematic process used by software engineers to design, develop, and test high-quality software.
 Explain the various phases of the Software Development Life Cycle. Provide a brief description of each phase.
+initiation
+planning
+execution
+monitoring and controling
+closure
 Agile vs. Waterfall Models:
 
+
 Compare and contrast the Agile and Waterfall models of software development. What are the key differences, and in what scenarios might each be preferred?
+The Waterfall model is a linear and sequential approach to software development. Each phase must be completed before the next one begins, and there is typically little to no overlap between phases while the Agile model is an iterative and incremental approach to software development. It emphasizes flexibility, collaboration, and customer feedback, with frequent releases of small, functional software increments.
 Requirements Engineering:
 
 What is requirements engineering? Describe the process and its importance in the software development lifecycle.
+Requirements engineering is a critical process in the software development lifecycle that involves systematically gathering, documenting, validating, and managing the requirements for a software system
+Importance of Requirements Engineering
+Alignment with Stakeholder Needs: Ensures that the software aligns with the needs and expectations of stakeholders, including end-users, clients, and regulatory bodies.
+Foundation for Design and Development: Provides a clear and precise foundation for the design, development, and testing phases.
+Risk Management: Helps identify and mitigate risks early in the project by clarifying what is needed and expected.
+Cost and Time Efficiency: Reduces the likelihood of costly rework and project delays by identifying requirements accurately from the outset.
+Improved Communication: Facilitates better communication and understanding among project team members and stakeholders through clear documentation.
+
 Software Design Principles:
 
 Explain the concept of modularity in software design. How does it improve maintainability and scalability of software systems?
